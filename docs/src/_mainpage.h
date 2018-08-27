@@ -15,11 +15,12 @@
  *    - `GPRMC`: Recommended minimum specific GPS/Transit data
  * - Low-level layer is separated from application layer, thus allows you to add custom communication with GPS device
  * - Works with operating systems
- * - Free of charge
+ * - User friendly MIT license
  *
  * \section         sect_resources Download & Resources
  *
  *  - <a class="download_url" href="https://github.com/MaJerle/GPS_NMEA_Parser/releases">Download library from Github releases</a>
+ *  - <a href="https://github.com/MaJerle/GPS_NMEA_Parser_res">Resources and examples respository</a>
  *  - <a href="https://github.com/MaJerle/GPS_NMEA_Parser">Official development repository on Github</a>
  *
  * \section         sect_contribute How to contribute
