@@ -1,0 +1,4 @@
+[submodule "GPS_NMEA_Parser"]
+	path = GPS_NMEA_Parser
+	url = https://github.com/MaJerle/GPS_NMEA_Parser
+	branch = master
